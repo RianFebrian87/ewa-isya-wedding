@@ -3,6 +3,7 @@
 	--pink-muted: #fdf4f8;
 	--pink-light: #fcdbe9;
 	--pink-hover: #d84686;
+	--blue-muted: #f4fbfd;
 	--light-sky-blue: #9cd7f7;
 	--sky-blue: #c1eafe;
 	--blue-pale: #a5c8ff;
@@ -184,7 +185,7 @@ body.transition {
 	top: 0;
 	left: 0;
 	right: 0;
-	background: rgba(241, 78, 149, 0.4);
+	background: #43b1ed;
 }
 
 #hero-section {
@@ -247,7 +248,7 @@ body.transition {
 }
 
 .section-bg {
-	background-color: var(--pink-muted);
+	background-color: var(--blue-muted);
 }
 
 #content-section {
