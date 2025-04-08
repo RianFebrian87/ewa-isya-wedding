@@ -214,7 +214,7 @@ body.transition {
 }
 
 #hero-section .btn-get-started:hover {
-	background: var(--pink-hover);
+	background: var(--sky-blue);
 	color: var(--white);
 }
 
@@ -267,7 +267,7 @@ body.transition {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: var(--pink-hover);
+	background: var(--sky-blue);
 }
 
 
@@ -295,7 +295,7 @@ body.transition {
 }
 
 .btn-pink:hover {
-	background: var(--pink-hover);
+	background: var(--sky-blue);
 	color: var(--white);
 }
 
@@ -485,7 +485,7 @@ body.transition {
 }
 
 .btn-kirim:hover {
-	background: var(--pink-hover);
+	background: var(--sky-blue);
 	color: var(--white);
 }
 
