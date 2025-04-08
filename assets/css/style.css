@@ -3,6 +3,8 @@
 	--pink-muted: #fdf4f8;
 	--pink-light: #fcdbe9;
 	--pink-hover: #d84686;
+	--light-sky-blue: #9cd7f7;
+	--sky-blue: #c1eafe;
 	--blue-pale: #a5c8ff;
 	--white: #ffffff;
 	--grey: #cccccc;
@@ -113,7 +115,7 @@ body.transition {
 	right: 0;
 	list-style-type: none;
 	display: flex;
-	background-color: var(--pink);
+	background-color: var(--light-sky-blue);
 	height: 80px;
 	z-index: 1;
 }
