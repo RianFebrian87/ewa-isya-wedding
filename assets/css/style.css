@@ -7,6 +7,7 @@
 	--light-sky-blue: #9cd7f7;
 	--sky-blue: #c1eafe;
 	--blue-pale: #a5c8ff;
+	--pink-light: #dbf9fc;
 	--white: #ffffff;
 	--grey: #cccccc;
 	--light-grey: #d4d4d4;
@@ -260,7 +261,7 @@ body.transition {
 }
 
 ::-webkit-scrollbar-track {
-	background: var(--pink-light);
+	background: var(--blue-light);
 }
 
 ::-webkit-scrollbar-thumb {
